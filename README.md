@@ -6,4 +6,4 @@ This repo expose following feature
 - Jetpack Compose usages
 - Unit test using Junit and Mockito
 
-# For any issue or concern to krish@techhabiles.com
+# For any issue or concern , please write to krish@techhabiles.com
